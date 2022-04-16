@@ -14,25 +14,25 @@ Analysis key deliverables:
 
 This project was fully developed in SQL using PostgreAQL, code can be checked at the following link:
 
-[Employee_Database_challenge.sql](Analysis Projects/Pewlett-Hackard-Analysis/Queries/Employee_Database_challenge.sql)
+[Employee_Database_challenge.sql](https://github.com/Bruno-OGSilva/Pewlett-Hackard-Analysis/blob/c650c2a09550bba5158a6b2490bd9695c1c6cc26/Analysis%20Projects/Pewlett-Hackard-Analysis/Queries/Employee_Database_challenge.sql)
 
 ## Results
 
-* The [retirement_titles.csv](Analysis Projects/Pewlett-Hackard-Analysis/Data/retirement_titles.csv) query gave us a perspective on how many employees were to retire soon, but as it have duplicated employees the info was not accurate.
+* The [retirement_titles.csv](https://github.com/Bruno-OGSilva/Pewlett-Hackard-Analysis/blob/c650c2a09550bba5158a6b2490bd9695c1c6cc26/Analysis%20Projects/Pewlett-Hackard-Analysis/Data/retirement_titles.csv) query gave us a perspective on how many employees were to retire soon, but as it have duplicated employees the info was not accurate.
 
-![](Analysis Projects/Pewlett-Hackard-Analysis/Asstets/retirement_titles.png)
+![](https://github.com/Bruno-OGSilva/Pewlett-Hackard-Analysis/blob/c650c2a09550bba5158a6b2490bd9695c1c6cc26/Analysis%20Projects/Pewlett-Hackard-Analysis/Asstets/retirement_titles.png)
 
-* To exclude the duplicated employees the [unique_titles.csv](Analysis Projects/Pewlett-Hackard-Analysis/Data/unique_titles.csv) query was done.
+* To exclude the duplicated employees the [unique_titles.csv](https://github.com/Bruno-OGSilva/Pewlett-Hackard-Analysis/blob/c650c2a09550bba5158a6b2490bd9695c1c6cc26/Analysis%20Projects/Pewlett-Hackard-Analysis/Data/unique_titles.csv) query was done.
 
-![](Analysis Projects/Pewlett-Hackard-Analysis/Asstets/unique_titles.png)
+![](https://github.com/Bruno-OGSilva/Pewlett-Hackard-Analysis/blob/c650c2a09550bba5158a6b2490bd9695c1c6cc26/Analysis%20Projects/Pewlett-Hackard-Analysis/Asstets/unique_titles.png)
 
-* To understand how the soon to be retired employees will affect the different departaments, the query [retiring_titles.csv](Analysis Projects/Pewlett-Hackard-Analysis/Data/retiring_titles.csv) was done.
+* To understand how the soon to be retired employees will affect the different departaments, the query [retiring_titles.csv](https://github.com/Bruno-OGSilva/Pewlett-Hackard-Analysis/blob/c650c2a09550bba5158a6b2490bd9695c1c6cc26/Analysis%20Projects/Pewlett-Hackard-Analysis/Data/retiring_titles.csv) was done.
 
-![](Analysis Projects/Pewlett-Hackard-Analysis/Asstets/retiring_titles.png)
+![](https://github.com/Bruno-OGSilva/Pewlett-Hackard-Analysis/blob/c650c2a09550bba5158a6b2490bd9695c1c6cc26/Analysis%20Projects/Pewlett-Hackard-Analysis/Asstets/retiring_titles.png)
 
-* Finally, to have a better perspective on how many employees would be eligible for the Mentorship Program the query [mentorship_eligibilty.csv](Analysis Projects/Pewlett-Hackard-Analysis/Data/mentorship_eligibilty.csv) was done.
+* Finally, to have a better perspective on how many employees would be eligible for the Mentorship Program the query [mentorship_eligibilty.csv](https://github.com/Bruno-OGSilva/Pewlett-Hackard-Analysis/blob/c650c2a09550bba5158a6b2490bd9695c1c6cc26/Analysis%20Projects/Pewlett-Hackard-Analysis/Data/mentorship_eligibilty.csv) was done.
 
-![](Analysis Projects/Pewlett-Hackard-Analysis/Asstets/mentorship_eligibility.png)
+![](https://github.com/Bruno-OGSilva/Pewlett-Hackard-Analysis/blob/c650c2a09550bba5158a6b2490bd9695c1c6cc26/Analysis%20Projects/Pewlett-Hackard-Analysis/Asstets/mentorship_eligibility.png)
 
 ## Summary
 
